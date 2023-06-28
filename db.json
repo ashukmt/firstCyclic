@@ -1,0 +1,22 @@
+{
+    "todo" : [
+        {
+            "name":"ashu",
+            "age" : "23"
+        },
+        {
+            "name" : "sanjeev",
+            "age" : "22"
+        }
+    ],
+    "dummy" : [
+        {
+            "name" : "capestone",
+            "date" : "28"
+        },
+        {
+            "name" : "hello world!",
+            "date" : "29"
+        }
+    ]
+}
